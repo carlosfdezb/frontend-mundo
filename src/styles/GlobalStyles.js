@@ -11,10 +11,10 @@ const GlobalStyle = createGlobalStyle`
         -moz-osx-font-smoothing: grayscale;
         
         background: #123e67;
-                height: 100vh;
-                margin: 0 auto;
-                width: 100%;
-        }
+        height: 100vh;
+        margin: 0 auto;
+        width: 100%;
+    }
 
     code {
         font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
